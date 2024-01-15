@@ -1,8 +1,0 @@
-1. Deschidem proiectul in VS code
-2. Pornim 2 terminale. Unul pentru partea de beckend iar celalalt pentru frontend
-3. Pe partea de beckend trimitem comenzile urmatoare:
-	a) cd beckend (ca sa intram in folder-ul beckend din cadrul proiectului - lucrat in js)
-	b) node up.js (ca sa lanseze beckend-ul)
-4. Pe partea de frontend se transmite obisnuita comanda npm start.
-
-De aici aplicatia este deschisa, deci haide sa alegem cele mai tari masini pentru inchiriat :)
